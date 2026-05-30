@@ -1,0 +1,53 @@
+Hritik Chauhan
+Software Engineer · Full Stack Developer
+
+Email:    chritik6@gmail.com
+Phone:    +91 7906000100
+LinkedIn: https://www.linkedin.com/in/hritik-chauhan-505466205
+GitHub:   https://github.com/Hritik669
+
+================================================================
+SUMMARY
+================================================================
+Software Engineer with 3+ years of experience building scalable
+production-grade applications across fintech, insurance and SaaS
+domains. Specialized in Node.js, TypeScript, Microservices,
+Distributed Systems, AWS, React.js, Kafka and Payment Systems.
+
+================================================================
+EXPERIENCE
+================================================================
+Software Engineer — Appinventiv Technologies Pvt Ltd
+June 2022 – Present
+  • Re-architected monolithic applications into 10+ microservices
+  • Built REST APIs and gRPC services
+  • Improved data retrieval by 38%
+  • Worked with AWS cloud services
+  • Built async systems using Kafka and RabbitMQ
+  • Reduced defects by 35%
+  • Mentored junior developers
+  • Used Cursor AI to accelerate development
+
+================================================================
+SKILLS
+================================================================
+Backend     : Node.js, Express.js, Hapi.js, gRPC, REST API, JWT,
+              Microservices
+Frontend    : React.js, JSX, React Hooks, Axios, React Router
+Databases   : MongoDB, PostgreSQL, Redis
+Cloud/DevOps: AWS, Datadog, Kafka, RabbitMQ, Docker
+Tools       : Git, GitLab, Jira, Cursor AI, Linux, Jest, SonarQube
+Security    : AES Encryption, JWT Rotation
+
+================================================================
+PROJECTS
+================================================================
+Toki – Payment Super App
+Generali Central Life Insurance
+Wicket.ai Platform
+Logging-Colorify (Open Source npm package)
+
+================================================================
+ACHIEVEMENTS
+================================================================
+Budding Star Award · Squad Award · Ranked in Technical Training
