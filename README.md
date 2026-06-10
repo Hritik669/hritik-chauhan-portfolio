@@ -44,7 +44,7 @@ Built with a modern, recruiter-friendly aesthetic inspired by Vercel, Linear, Ap
 5. **Projects** — Toki, Generali, Wicket.ai, Logging-Colorify with modals
 6. **Achievements** — Budding Star, Squad, Technical Training rank
 7. **Contact** — direct details + EmailJS-powered form with validation, spam prevention, toast notifications, loading state, and form reset
-8. **Footer** — social icons, "Built with React + TypeScript + Tailwind", dynamic year
+8. **Footer** — social icons, copyright, dynamic year
 
 ### Engineering
 - Strict TypeScript with `noUnusedLocals`, `noUnusedParameters`
@@ -229,5 +229,3 @@ Run `npm run build` and upload the contents of `dist/`. Make sure your host serv
 - Icons by [Lucide](https://lucide.dev)
 - Fonts: [Inter](https://rsms.me/inter/) + [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 - Animations powered by [Framer Motion](https://www.framer.com/motion/)
-
-Built with ❤️ by **Hritik Chauhan** — React + TypeScript + Tailwind.

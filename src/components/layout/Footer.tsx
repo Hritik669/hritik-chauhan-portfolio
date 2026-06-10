@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { ArrowUp, Heart } from "lucide-react";
+import { ArrowUp } from "lucide-react";
 import { personal, socials } from "@/lib/data";
 import { scrollToId } from "@/lib/utils";
 
@@ -54,14 +54,9 @@ export function Footer() {
           </div>
         </div>
 
-        <div className="mt-10 flex flex-col items-center justify-between gap-3 border-t border-border/60 pt-6 text-xs text-muted-foreground md:flex-row">
+        <div className="mt-10 border-t border-border/60 pt-6 text-center text-xs text-muted-foreground">
           <p>
             © {year} {personal.name}. All rights reserved.
-          </p>
-          <p className="inline-flex items-center gap-1.5">
-            Built with
-            <Heart className="h-3.5 w-3.5 fill-rose-500/80 text-rose-500" />
-            using <span className="font-medium text-foreground">React + TypeScript + Tailwind</span>
           </p>
         </div>
       </div>
